@@ -1,0 +1,17 @@
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopManagement.Domain\bin\Debug\net8.0\ShopManagement.Domain.deps.json
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopManagement.Domain\bin\Debug\net8.0\ShopManagement.Domain.dll
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopManagement.Domain\bin\Debug\net8.0\ShopManagement.Domain.pdb
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopManagement.Domain\bin\Debug\net8.0\0_Framework.dll
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopManagement.Domain\bin\Debug\net8.0\ShopManagement.Application.Contracts.dll
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopManagement.Domain\bin\Debug\net8.0\0_Framework.pdb
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopManagement.Domain\bin\Debug\net8.0\ShopManagement.Application.Contracts.pdb
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopManagement.Domain\obj\Debug\net8.0\ShopManagement.Domain.csproj.AssemblyReference.cache
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopManagement.Domain\obj\Debug\net8.0\ShopManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopManagement.Domain\obj\Debug\net8.0\ShopManagement.Domain.AssemblyInfoInputs.cache
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopManagement.Domain\obj\Debug\net8.0\ShopManagement.Domain.AssemblyInfo.cs
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopManagement.Domain\obj\Debug\net8.0\ShopManagement.Domain.csproj.CoreCompileInputs.cache
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopManagement.Domain\obj\Debug\net8.0\ShopMana.2E6A1FF6.Up2Date
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopManagement.Domain\obj\Debug\net8.0\ShopManagement.Domain.dll
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopManagement.Domain\obj\Debug\net8.0\refint\ShopManagement.Domain.dll
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopManagement.Domain\obj\Debug\net8.0\ShopManagement.Domain.pdb
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopManagement.Domain\obj\Debug\net8.0\ref\ShopManagement.Domain.dll
