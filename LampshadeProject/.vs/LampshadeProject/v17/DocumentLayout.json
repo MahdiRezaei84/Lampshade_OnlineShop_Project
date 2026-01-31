@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\servicehost\\areas\\administration\\pages\\shop\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shop\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\servicehost\\areas\\administration\\pages\\shop\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shop\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\servicehost\\areas\\administration\\pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\servicehost\\areas\\administration\\pages\\shop\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shop\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7DBC65-2B75-46E7-A211-C4DA3E273669}|ShopManagement.Infrastracture.EFCore\\ShopManagement.Infrastructure.EFCore.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\shopmanagement.infrastracture.efcore\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7DBC65-2B75-46E7-A211-C4DA3E273669}|ShopManagement.Infrastracture.EFCore\\ShopManagement.Infrastructure.EFCore.csproj|solutionrelative:shopmanagement.infrastracture.efcore\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +30,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\Products\\Edit.cshtml",
+              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\Products\\Edit.cshtml*",
+              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\Products\\Edit.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T09:03:33.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T08:53:14.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\Products\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\Products\\Index.cshtml.cs",
+              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\Products\\Index.cshtml.cs",
+              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\Products\\Index.cshtml.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAUwEoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T08:32:58.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ShopManagement.Infrastracture.EFCore\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ShopManagement.Infrastracture.EFCore\\Repository\\ProductRepository.cs",
+              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ShopManagement.Infrastracture.EFCore\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "ShopManagement.Infrastracture.EFCore\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwC4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T08:29:33.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\Products\\Index.cshtml",
+              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\Products\\Index.cshtml",
+              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\Products\\Index.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T08:28:34.769Z",
+              "EditorCaption": ""
             }
           ]
         }

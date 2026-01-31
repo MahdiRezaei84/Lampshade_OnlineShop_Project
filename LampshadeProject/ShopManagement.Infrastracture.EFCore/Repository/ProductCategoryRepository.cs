@@ -31,6 +31,7 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
                 Slug = x.Slug
             }).FirstOrDefault(x => x.Id == id);
         }
+
         #endregion
 
         #region search
@@ -49,6 +50,17 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
 
             return query.OrderByDescending(x => x.Id).ToList();
 
+        }
+        #endregion
+
+        #region get productCategories
+        public List<ProductCategoryViewModel> GetProductCategories()
+        {
+            return _context.ProductCategories.Select(x => new ProductCategoryViewModel
+            {
+                Id = x.Id,
+                Name = x.Name,
+            }).ToList();
         }
         #endregion
 
