@@ -63,6 +63,7 @@ namespace ShopManagement.Application
         {
             return _productRepository.GetDetails(id);
         }
+
         #endregion
 
         #region is in stock
@@ -99,6 +100,13 @@ namespace ShopManagement.Application
         public List<ProductViewModel> Search(ProductSearchModel searchModel)
         {
             return _productRepository.Search(searchModel);
+        }
+        #endregion
+
+        #region get products
+        public List<ProductViewModel> GetProducts()
+        {
+            return _productRepository.GetProducts();
         }
         #endregion
 
