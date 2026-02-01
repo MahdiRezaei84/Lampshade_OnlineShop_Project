@@ -3,44 +3,28 @@
   "WorkspaceRootPath": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0B897BB-85EB-475E-800F-B21AF7ED42B2}|ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\shopmanagement.application.contracts\\productpicture\\createproductpicture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0B897BB-85EB-475E-800F-B21AF7ED42B2}|ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj|solutionrelative:shopmanagement.application.contracts\\productpicture\\createproductpicture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ShopManagement.Infrastracture.EFCore\\Migrations\\20260131152929_ProductPictureAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ShopManagement.Infrastracture.EFCore\\Migrations\\20260131152929_ProductPictureAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE7DBC65-2B75-46E7-A211-C4DA3E273669}|ShopManagement.Infrastracture.EFCore\\ShopManagement.Infrastructure.EFCore.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\shopmanagement.infrastracture.efcore\\repository\\productpicturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE7DBC65-2B75-46E7-A211-C4DA3E273669}|ShopManagement.Infrastracture.EFCore\\ShopManagement.Infrastructure.EFCore.csproj|solutionrelative:shopmanagement.infrastracture.efcore\\repository\\productpicturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0B897BB-85EB-475E-800F-B21AF7ED42B2}|ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\shopmanagement.application.contracts\\product\\editproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0B897BB-85EB-475E-800F-B21AF7ED42B2}|ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj|solutionrelative:shopmanagement.application.contracts\\product\\editproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0B897BB-85EB-475E-800F-B21AF7ED42B2}|ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\shopmanagement.application.contracts\\product\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0B897BB-85EB-475E-800F-B21AF7ED42B2}|ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj|solutionrelative:shopmanagement.application.contracts\\product\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\servicehost\\areas\\administration\\pages\\shop\\productpictures\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shop\\productpictures\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\servicehost\\areas\\administration\\pages\\shop\\productpictures\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shop\\productpictures\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\servicehost\\areas\\administration\\pages\\shared\\_menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shared\\_menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\servicehost\\areas\\administration\\pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\servicehost\\areas\\administration\\pages\\shop\\productpictures\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shop\\productpictures\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\servicehost\\areas\\administration\\pages\\shop\\slides\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shop\\slides\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0B897BB-85EB-475E-800F-B21AF7ED42B2}|ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\shopmanagement.application.contracts\\productpicture\\productpictureviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0B897BB-85EB-475E-800F-B21AF7ED42B2}|ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj|solutionrelative:shopmanagement.application.contracts\\productpicture\\productpictureviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\servicehost\\areas\\administration\\pages\\shop\\slides\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shop\\slides\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\servicehost\\areas\\administration\\pages\\shop\\slides\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shop\\slides\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\servicehost\\areas\\administration\\pages\\shop\\slides\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shop\\slides\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,131 +43,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "20260131152929_ProductPictureAdded.cs",
-              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ShopManagement.Infrastracture.EFCore\\Migrations\\20260131152929_ProductPictureAdded.cs",
-              "RelativeDocumentMoniker": "ShopManagement.Infrastracture.EFCore\\Migrations\\20260131152929_ProductPictureAdded.cs",
-              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ShopManagement.Infrastracture.EFCore\\Migrations\\20260131152929_ProductPictureAdded.cs",
-              "RelativeToolTip": "ShopManagement.Infrastracture.EFCore\\Migrations\\20260131152929_ProductPictureAdded.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T15:29:29.505Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CreateProductPicture.cs",
-              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ShopManagement.Application.Contracts\\ProductPicture\\CreateProductPicture.cs",
-              "RelativeDocumentMoniker": "ShopManagement.Application.Contracts\\ProductPicture\\CreateProductPicture.cs",
-              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ShopManagement.Application.Contracts\\ProductPicture\\CreateProductPicture.cs",
-              "RelativeToolTip": "ShopManagement.Application.Contracts\\ProductPicture\\CreateProductPicture.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T15:26:30.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreateProduct.cs",
-              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ShopManagement.Application.Contracts\\Product\\CreateProduct.cs",
-              "RelativeDocumentMoniker": "ShopManagement.Application.Contracts\\Product\\CreateProduct.cs",
-              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ShopManagement.Application.Contracts\\Product\\CreateProduct.cs",
-              "RelativeToolTip": "ShopManagement.Application.Contracts\\Product\\CreateProduct.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T15:27:10.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EditProduct.cs",
-              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ShopManagement.Application.Contracts\\Product\\EditProduct.cs",
-              "RelativeDocumentMoniker": "ShopManagement.Application.Contracts\\Product\\EditProduct.cs",
-              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ShopManagement.Application.Contracts\\Product\\EditProduct.cs",
-              "RelativeToolTip": "ShopManagement.Application.Contracts\\Product\\EditProduct.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T15:27:08.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductPictureRepository.cs",
-              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ShopManagement.Infrastracture.EFCore\\Repository\\ProductPictureRepository.cs",
-              "RelativeDocumentMoniker": "ShopManagement.Infrastracture.EFCore\\Repository\\ProductPictureRepository.cs",
-              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ShopManagement.Infrastracture.EFCore\\Repository\\ProductPictureRepository.cs",
-              "RelativeToolTip": "ShopManagement.Infrastracture.EFCore\\Repository\\ProductPictureRepository.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T15:26:05.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductPictures\\Edit.cshtml",
-              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductPictures\\Edit.cshtml",
-              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductPictures\\Edit.cshtml",
-              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductPictures\\Edit.cshtml",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAADoAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-31T15:20:19.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductPictures\\Create.cshtml",
-              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductPictures\\Create.cshtml",
-              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductPictures\\Create.cshtml",
-              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductPictures\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-31T15:16:00.758Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "_AdminLayout.cshtml",
               "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shared\\_AdminLayout.cshtml",
               "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shared\\_AdminLayout.cshtml",
               "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shared\\_AdminLayout.cshtml",
               "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAAKwAAAAAAAAAAAAAALQAAABiAAAAAAAAAA==",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAswJMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-31T15:15:02.753Z",
+              "WhenOpened": "2026-02-01T18:48:10.319Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductPictureViewModel.cs",
-              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ShopManagement.Application.Contracts\\ProductPicture\\ProductPictureViewModel.cs",
-              "RelativeDocumentMoniker": "ShopManagement.Application.Contracts\\ProductPicture\\ProductPictureViewModel.cs",
-              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ShopManagement.Application.Contracts\\ProductPicture\\ProductPictureViewModel.cs",
-              "RelativeToolTip": "ShopManagement.Application.Contracts\\ProductPicture\\ProductPictureViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "_Menu.cshtml",
+              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shared\\_Menu.cshtml",
+              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shared\\_Menu.cshtml",
+              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shared\\_Menu.cshtml",
+              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shared\\_Menu.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswC8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-01T18:48:08.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\Slides\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\Slides\\Edit.cshtml",
+              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\Slides\\Edit.cshtml",
+              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\Slides\\Edit.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAE0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-01T18:46:02.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\Slides\\Create.cshtml",
+              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\Slides\\Create.cshtml",
+              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\Slides\\Create.cshtml",
+              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\Slides\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-01T18:38:35.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\Slides\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\Slides\\Index.cshtml.cs",
+              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\Slides\\Index.cshtml.cs",
+              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\Slides\\Index.cshtml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T15:07:03.585Z",
+              "WhenOpened": "2026-02-01T17:42:20.02Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductPictures\\Index.cshtml",
-              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductPictures\\Index.cshtml",
-              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductPictures\\Index.cshtml",
-              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\ProductPictures\\Index.cshtml",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAAF0AAABzAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\Slides\\Index.cshtml",
+              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\Slides\\Index.cshtml",
+              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\Slides\\Index.cshtml",
+              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\Slides\\Index.cshtml",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAEcAAAB1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-31T15:04:40.322Z",
+              "WhenOpened": "2026-02-01T17:42:18.913Z",
               "EditorCaption": ""
             }
           ]
