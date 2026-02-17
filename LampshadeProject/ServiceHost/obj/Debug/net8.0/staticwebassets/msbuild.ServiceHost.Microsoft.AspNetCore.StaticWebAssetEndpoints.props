@@ -2472,17 +2472,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"sw3hcwlqs1"},{"Name":"integrity","Value":"sha256-9PXscjTeN6PxSA8T5MCKVYHcc/lNmd87C8Oq11kgG6Y="},{"Name":"label","Value":"_content/ServiceHost/AdminTheme/assets/js/persian-datepicker.min.js"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"54747"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00229PXscjTeN6PxSA8T5MCKVYHcc/lNmd87C8Oq11kgG6Y=\u0022"},{"Name":"Last-Modified","Value":"Sun, 02 Aug 2020 05:49:08 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ServiceHost/AdminTheme/assets/js/site.j02i6yxj0x.js">
+    <StaticWebAssetEndpoint Include="_content/ServiceHost/AdminTheme/assets/js/site.6owjikcryj.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AdminTheme\assets\js\site.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"j02i6yxj0x"},{"Name":"integrity","Value":"sha256-TccL3H9iDDWO19WcTfAJ8sswoz029QFEq5RNDr3bJ5c="},{"Name":"label","Value":"_content/ServiceHost/AdminTheme/assets/js/site.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6592"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022TccL3H9iDDWO19WcTfAJ8sswoz029QFEq5RNDr3bJ5c=\u0022"},{"Name":"Last-Modified","Value":"Sun, 15 Feb 2026 18:24:37 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6owjikcryj"},{"Name":"integrity","Value":"sha256-2jHsoVNoqhG\u002Bu3DI1SokIXL3Iki1OvQFVEL2gZE\u002BgVY="},{"Name":"label","Value":"_content/ServiceHost/AdminTheme/assets/js/site.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6573"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00222jHsoVNoqhG\u002Bu3DI1SokIXL3Iki1OvQFVEL2gZE\u002BgVY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 15 Feb 2026 18:25:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ServiceHost/AdminTheme/assets/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AdminTheme\assets\js\site.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TccL3H9iDDWO19WcTfAJ8sswoz029QFEq5RNDr3bJ5c="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6592"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022TccL3H9iDDWO19WcTfAJ8sswoz029QFEq5RNDr3bJ5c=\u0022"},{"Name":"Last-Modified","Value":"Sun, 15 Feb 2026 18:24:37 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2jHsoVNoqhG\u002Bu3DI1SokIXL3Iki1OvQFVEL2gZE\u002BgVY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6573"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00222jHsoVNoqhG\u002Bu3DI1SokIXL3Iki1OvQFVEL2gZE\u002BgVY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 15 Feb 2026 18:25:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ServiceHost/AdminTheme/assets/js/skycons.min.75l1nlmckd.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AdminTheme\assets\js\skycons.min.js'))</AssetFile>
