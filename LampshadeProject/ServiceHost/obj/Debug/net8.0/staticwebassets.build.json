@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "txRKLXJzX+dO3dSkVNy6Xq9z+SPe8Jnups5sx4KrO6U=",
+  "Hash": "4rHEyhPFK6Nenzd3ABYpujOJl9M68Fgw51drb+uyykM=",
   "Source": "ServiceHost",
   "BasePath": "_content/ServiceHost",
   "Mode": "Default",
@@ -4399,8 +4399,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "gnffqf22ri",
-      "Integrity": "BG29x6OVQrDoH2V9Z0+a9P+eHApdZT4KsGRNpRhdqH0=",
+      "Fingerprint": "j02i6yxj0x",
+      "Integrity": "TccL3H9iDDWO19WcTfAJ8sswoz029QFEq5RNDr3bJ5c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\AdminTheme\\assets\\js\\site.js"
@@ -24723,7 +24723,7 @@
       ]
     },
     {
-      "Route": "AdminTheme/assets/js/site.gnffqf22ri.js",
+      "Route": "AdminTheme/assets/js/site.j02i6yxj0x.js",
       "AssetFile": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -24733,7 +24733,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6554"
+          "Value": "6592"
         },
         {
           "Name": "Content-Type",
@@ -24741,11 +24741,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BG29x6OVQrDoH2V9Z0+a9P+eHApdZT4KsGRNpRhdqH0=\""
+          "Value": "\"TccL3H9iDDWO19WcTfAJ8sswoz029QFEq5RNDr3bJ5c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 28 Jan 2026 07:34:13 GMT"
+          "Value": "Sun, 15 Feb 2026 18:24:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24755,7 +24755,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "gnffqf22ri"
+          "Value": "j02i6yxj0x"
         },
         {
           "Name": "label",
@@ -24763,7 +24763,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-BG29x6OVQrDoH2V9Z0+a9P+eHApdZT4KsGRNpRhdqH0="
+          "Value": "sha256-TccL3H9iDDWO19WcTfAJ8sswoz029QFEq5RNDr3bJ5c="
         }
       ]
     },
@@ -24778,7 +24778,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6554"
+          "Value": "6592"
         },
         {
           "Name": "Content-Type",
@@ -24786,11 +24786,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BG29x6OVQrDoH2V9Z0+a9P+eHApdZT4KsGRNpRhdqH0=\""
+          "Value": "\"TccL3H9iDDWO19WcTfAJ8sswoz029QFEq5RNDr3bJ5c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 28 Jan 2026 07:34:13 GMT"
+          "Value": "Sun, 15 Feb 2026 18:24:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -24800,7 +24800,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BG29x6OVQrDoH2V9Z0+a9P+eHApdZT4KsGRNpRhdqH0="
+          "Value": "sha256-TccL3H9iDDWO19WcTfAJ8sswoz029QFEq5RNDr3bJ5c="
         }
       ]
     },

@@ -15,3 +15,4 @@ E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopMan
 E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopManagement.Domain\obj\Debug\net8.0\refint\ShopManagement.Domain.dll
 E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopManagement.Domain\obj\Debug\net8.0\ShopManagement.Domain.pdb
 E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopManagement.Domain\obj\Debug\net8.0\ref\ShopManagement.Domain.dll
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopManagement.Domain\obj\Debug\net8.0\ShopManagement.Domain.sourcelink.json

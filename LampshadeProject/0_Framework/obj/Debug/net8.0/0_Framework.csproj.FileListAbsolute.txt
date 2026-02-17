@@ -10,3 +10,4 @@ E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\0_Frame
 E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\0_Framework\obj\Debug\net8.0\refint\0_Framework.dll
 E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\0_Framework\obj\Debug\net8.0\0_Framework.pdb
 E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\0_Framework\obj\Debug\net8.0\ref\0_Framework.dll
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\0_Framework\obj\Debug\net8.0\0_Framework.sourcelink.json

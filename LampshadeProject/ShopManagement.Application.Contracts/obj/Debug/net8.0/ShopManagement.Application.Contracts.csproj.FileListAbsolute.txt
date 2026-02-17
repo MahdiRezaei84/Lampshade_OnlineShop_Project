@@ -13,3 +13,4 @@ E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopMan
 E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopManagement.Application.Contracts\obj\Debug\net8.0\refint\ShopManagement.Application.Contracts.dll
 E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.pdb
 E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopManagement.Application.Contracts\obj\Debug\net8.0\ref\ShopManagement.Application.Contracts.dll
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.sourcelink.json

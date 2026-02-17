@@ -17,3 +17,4 @@ E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopMan
 E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopManagement.Application\obj\Debug\net8.0\refint\ShopManagement.Application.dll
 E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopManagement.Application\obj\Debug\net8.0\ShopManagement.Application.pdb
 E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopManagement.Application\obj\Debug\net8.0\ref\ShopManagement.Application.dll
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopManagement.Application\obj\Debug\net8.0\ShopManagement.Application.sourcelink.json

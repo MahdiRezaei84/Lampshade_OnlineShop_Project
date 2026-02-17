@@ -291,3 +291,14 @@ E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\Service
 E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ServiceHost\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ServiceHost\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ServiceHost\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ServiceHost\obj\Debug\net8.0\ServiceHost.sourcelink.json
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ServiceHost\bin\Debug\net8.0\DiscountManagement.Application.Contracts.dll
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ServiceHost\bin\Debug\net8.0\DiscountManagement.Application.dll
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ServiceHost\bin\Debug\net8.0\DiscountManagement.Configuration.dll
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ServiceHost\bin\Debug\net8.0\DiscountManagement.Domain.dll
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ServiceHost\bin\Debug\net8.0\DiscountManagement.Infrastructure.EFCore.dll
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ServiceHost\bin\Debug\net8.0\DiscountManagement.Configuration.pdb
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ServiceHost\bin\Debug\net8.0\DiscountManagement.Application.pdb
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ServiceHost\bin\Debug\net8.0\DiscountManagement.Application.Contracts.pdb
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ServiceHost\bin\Debug\net8.0\DiscountManagement.Domain.pdb
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ServiceHost\bin\Debug\net8.0\DiscountManagement.Infrastructure.EFCore.pdb

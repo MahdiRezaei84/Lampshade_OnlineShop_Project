@@ -19,3 +19,4 @@ E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopMan
 E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopManagement.Infrastracture.EFCore\obj\Debug\net8.0\ShopManagement.Infrastructure.EFCore.pdb
 E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopManagement.Infrastracture.EFCore\obj\Debug\net8.0\ShopManagement.Infrastructure.EFCore.genruntimeconfig.cache
 E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopManagement.Infrastracture.EFCore\obj\Debug\net8.0\ref\ShopManagement.Infrastructure.EFCore.dll
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ShopManagement.Infrastracture.EFCore\obj\Debug\net8.0\ShopManagement.Infrastructure.EFCore.sourcelink.json

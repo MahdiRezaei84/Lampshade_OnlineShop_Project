@@ -3,28 +3,56 @@
   "WorkspaceRootPath": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\servicehost\\areas\\administration\\pages\\discounts\\customerdiscounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\discounts\\customerdiscounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\servicehost\\wwwroot\\admintheme\\assets\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\wwwroot\\admintheme\\assets\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3C3D34-2595-45D6-895C-590D2D9127E3}|DiscountManagement.Application.Contracts\\DiscountManagement.Application.Contracts.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\discountmanagement.application.contracts\\customerdiscount\\definecustomerdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C3C3D34-2595-45D6-895C-590D2D9127E3}|DiscountManagement.Application.Contracts\\DiscountManagement.Application.Contracts.csproj|solutionrelative:discountmanagement.application.contracts\\customerdiscount\\definecustomerdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3C3D34-2595-45D6-895C-590D2D9127E3}|DiscountManagement.Application.Contracts\\DiscountManagement.Application.Contracts.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\discountmanagement.application.contracts\\customerdiscount\\editcustomerdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C3C3D34-2595-45D6-895C-590D2D9127E3}|DiscountManagement.Application.Contracts\\DiscountManagement.Application.Contracts.csproj|solutionrelative:discountmanagement.application.contracts\\customerdiscount\\editcustomerdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA1D877-4983-49C2-8A97-6FA89F639175}|DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\discountmanagement.infrastructure.efcore\\repository\\customerdiscountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA1D877-4983-49C2-8A97-6FA89F639175}|DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj|solutionrelative:discountmanagement.infrastructure.efcore\\repository\\customerdiscountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\servicehost\\areas\\administration\\pages\\discounts\\customerdiscounts\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\discounts\\customerdiscounts\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08630FB-6313-4346-AE30-EF02E9477082}|DiscountManagement.Application\\DiscountManagement.Application.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\discountmanagement.application\\customerdiscountapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A08630FB-6313-4346-AE30-EF02E9477082}|DiscountManagement.Application\\DiscountManagement.Application.csproj|solutionrelative:discountmanagement.application\\customerdiscountapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3C3D34-2595-45D6-895C-590D2D9127E3}|DiscountManagement.Application.Contracts\\DiscountManagement.Application.Contracts.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\discountmanagement.application.contracts\\customerdiscount\\customerdiscountsearchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C3C3D34-2595-45D6-895C-590D2D9127E3}|DiscountManagement.Application.Contracts\\DiscountManagement.Application.Contracts.csproj|solutionrelative:discountmanagement.application.contracts\\customerdiscount\\customerdiscountsearchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3C3D34-2595-45D6-895C-590D2D9127E3}|DiscountManagement.Application.Contracts\\DiscountManagement.Application.Contracts.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\discountmanagement.application.contracts\\customerdiscount\\customerdiscountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C3C3D34-2595-45D6-895C-590D2D9127E3}|DiscountManagement.Application.Contracts\\DiscountManagement.Application.Contracts.csproj|solutionrelative:discountmanagement.application.contracts\\customerdiscount\\customerdiscountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\servicehost\\areas\\administration\\pages\\discounts\\customerdiscounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\discounts\\customerdiscounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\servicehost\\areas\\administration\\pages\\discounts\\customerdiscounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\discounts\\customerdiscounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\servicehost\\areas\\administration\\pages\\shared\\_menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shared\\_menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\servicehost\\areas\\administration\\pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\servicehost\\areas\\administration\\pages\\shop\\slides\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shop\\slides\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\servicehost\\areas\\administration\\pages\\shop\\slides\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shop\\slides\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\servicehost\\areas\\administration\\pages\\shop\\slides\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shop\\slides\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\servicehost\\areas\\administration\\pages\\shop\\slides\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11119442-BFC0-448D-BB48-4968C1101B1F}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shop\\slides\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,89 +62,173 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAAI4AAAAAAAAAAAAswJMAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-01T18:48:10.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Menu.cshtml",
-              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shared\\_Menu.cshtml",
-              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shared\\_Menu.cshtml",
-              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shared\\_Menu.cshtml",
-              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shared\\_Menu.cshtml",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAswC8AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-01T18:48:08.024Z",
+              "Title": "site.js",
+              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\site.js",
+              "RelativeDocumentMoniker": "ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\site.js",
+              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\site.js",
+              "RelativeToolTip": "ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\site.js",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-15T17:46:34.543Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\Slides\\Edit.cshtml",
-              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\Slides\\Edit.cshtml",
-              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\Slides\\Edit.cshtml",
-              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\Slides\\Edit.cshtml",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAE0AAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-01T18:46:02.657Z",
+              "Title": "DefineCustomerDiscount.cs",
+              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\DiscountManagement.Application.Contracts\\CustomerDiscount\\DefineCustomerDiscount.cs",
+              "RelativeDocumentMoniker": "DiscountManagement.Application.Contracts\\CustomerDiscount\\DefineCustomerDiscount.cs",
+              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\DiscountManagement.Application.Contracts\\CustomerDiscount\\DefineCustomerDiscount.cs",
+              "RelativeToolTip": "DiscountManagement.Application.Contracts\\CustomerDiscount\\DefineCustomerDiscount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T18:08:13.005Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\Slides\\Create.cshtml",
-              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\Slides\\Create.cshtml",
-              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\Slides\\Create.cshtml",
-              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\Slides\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-01T18:38:35.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\Slides\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\Slides\\Index.cshtml.cs",
-              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\Slides\\Index.cshtml.cs",
-              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\Slides\\Index.cshtml.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Title": "EditCustomerDiscount.cs",
+              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\DiscountManagement.Application.Contracts\\CustomerDiscount\\EditCustomerDiscount.cs",
+              "RelativeDocumentMoniker": "DiscountManagement.Application.Contracts\\CustomerDiscount\\EditCustomerDiscount.cs",
+              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\DiscountManagement.Application.Contracts\\CustomerDiscount\\EditCustomerDiscount.cs",
+              "RelativeToolTip": "DiscountManagement.Application.Contracts\\CustomerDiscount\\EditCustomerDiscount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-01T17:42:20.02Z",
+              "WhenOpened": "2026-02-15T18:08:08.605Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\Slides\\Index.cshtml",
-              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\Slides\\Index.cshtml",
-              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shop\\Slides\\Index.cshtml",
-              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shop\\Slides\\Index.cshtml",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAAAEcAAAB1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-01T17:42:18.913Z",
+              "Title": "CustomerDiscountRepository.cs",
+              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\DiscountManagement.Infrastructure.EFCore\\Repository\\CustomerDiscountRepository.cs",
+              "RelativeDocumentMoniker": "DiscountManagement.Infrastructure.EFCore\\Repository\\CustomerDiscountRepository.cs",
+              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\DiscountManagement.Infrastructure.EFCore\\Repository\\CustomerDiscountRepository.cs",
+              "RelativeToolTip": "DiscountManagement.Infrastructure.EFCore\\Repository\\CustomerDiscountRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T18:05:45.378Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Menu.cshtml",
+              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shared\\_Menu.cshtml",
+              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shared\\_Menu.cshtml",
+              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shared\\_Menu.cshtml",
+              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shared\\_Menu.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-15T17:27:25.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Discounts\\CustomerDiscounts\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Discounts\\CustomerDiscounts\\Index.cshtml.cs",
+              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Discounts\\CustomerDiscounts\\Index.cshtml.cs",
+              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Discounts\\CustomerDiscounts\\Index.cshtml.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAApwDYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T16:40:18.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Discounts\\CustomerDiscounts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Discounts\\CustomerDiscounts\\Edit.cshtml",
+              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Discounts\\CustomerDiscounts\\Edit.cshtml",
+              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Discounts\\CustomerDiscounts\\Edit.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-15T17:16:26.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerDiscountSearchModel.cs",
+              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\DiscountManagement.Application.Contracts\\CustomerDiscount\\CustomerDiscountSearchModel.cs",
+              "RelativeDocumentMoniker": "DiscountManagement.Application.Contracts\\CustomerDiscount\\CustomerDiscountSearchModel.cs",
+              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\DiscountManagement.Application.Contracts\\CustomerDiscount\\CustomerDiscountSearchModel.cs",
+              "RelativeToolTip": "DiscountManagement.Application.Contracts\\CustomerDiscount\\CustomerDiscountSearchModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T18:09:01.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerDiscountApplication.cs",
+              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\DiscountManagement.Application\\CustomerDiscountApplication.cs",
+              "RelativeDocumentMoniker": "DiscountManagement.Application\\CustomerDiscountApplication.cs",
+              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\DiscountManagement.Application\\CustomerDiscountApplication.cs",
+              "RelativeToolTip": "DiscountManagement.Application\\CustomerDiscountApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T18:09:35.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerDiscountViewModel.cs",
+              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\DiscountManagement.Application.Contracts\\CustomerDiscount\\CustomerDiscountViewModel.cs",
+              "RelativeDocumentMoniker": "DiscountManagement.Application.Contracts\\CustomerDiscount\\CustomerDiscountViewModel.cs",
+              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\DiscountManagement.Application.Contracts\\CustomerDiscount\\CustomerDiscountViewModel.cs",
+              "RelativeToolTip": "DiscountManagement.Application.Contracts\\CustomerDiscount\\CustomerDiscountViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T18:09:03.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Discounts\\CustomerDiscounts\\Create.cshtml",
+              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Discounts\\CustomerDiscounts\\Create.cshtml",
+              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Discounts\\CustomerDiscounts\\Create.cshtml",
+              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Discounts\\CustomerDiscounts\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-15T17:19:24.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAAAO8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-15T17:08:24.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Discounts\\CustomerDiscounts\\Index.cshtml",
+              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Discounts\\CustomerDiscounts\\Index.cshtml",
+              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\Areas\\Administration\\Pages\\Discounts\\CustomerDiscounts\\Index.cshtml",
+              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Discounts\\CustomerDiscounts\\Index.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-15T16:55:04.521Z"
             }
           ]
         }
