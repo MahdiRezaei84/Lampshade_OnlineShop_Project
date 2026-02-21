@@ -9,9 +9,6 @@ namespace ServiceHost.Areas.Administration.Pages.Discounts.ColleagueDiscounts
 {
     public class IndexModel : PageModel
     {
-        [TempData]
-        public string Message { get; set; }
-
         public ColleagueDiscountSearchModel SearchModel;
         public List<ColleagueDiscountViewModel> ColleagueDiscounts;
         public SelectList Products;
@@ -45,6 +42,8 @@ namespace ServiceHost.Areas.Administration.Pages.Discounts.ColleagueDiscounts
         public JsonResult OnPostCreate(DefineColleagueDiscount command)
         {
             var result = _colleagueDiscountsApplication.Define(command);
+            TempData["Notification.Message"] = result.Message;
+            TempData["Notification.Type"] = result.Type.ToString();
             return new JsonResult(result);
         }
 
@@ -58,18 +57,24 @@ namespace ServiceHost.Areas.Administration.Pages.Discounts.ColleagueDiscounts
         public JsonResult OnPostEdit(EditColleagueDiscount command)
         {
             var result = _colleagueDiscountsApplication.Edit(command);
+            TempData["Notification.Message"] = result.Message;
+            TempData["Notification.Type"] = result.Type.ToString();
             return new JsonResult(result);
         }
 
         public IActionResult OnGetRemove(long id)
         {
-            _colleagueDiscountsApplication.Remove(id);
+            var result = _colleagueDiscountsApplication.Remove(id);
+            TempData["Notification.Message"] = result.Message;
+            TempData["Notification.Type"] = result.Type.ToString();
             return RedirectToPage("./Index");
         }
 
         public IActionResult OnGetRestore(long id)
         {
-            _colleagueDiscountsApplication.Restore(id);
+            var result = _colleagueDiscountsApplication.Restore(id);
+            TempData["Notification.Message"] = result.Message;
+            TempData["Notification.Type"] = result.Type.ToString();
             return RedirectToPage("./Index");
         }
     

@@ -1,10 +1,14 @@
 using DiscountManagement.Configuration;
 using ShopManagement.Infrastructure.Configuration;
+using System.Text.Encodings.Web;
+using System.Text.Unicode;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+
+builder.Services.AddSingleton<HtmlEncoder>(HtmlEncoder.Create(allowedRanges: new[] { UnicodeRanges.BasicLatin, UnicodeRanges.Arabic }));
 
 #region services
 var connectionString = builder.Configuration.GetConnectionString("LampshadeDb");

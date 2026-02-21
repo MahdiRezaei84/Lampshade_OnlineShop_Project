@@ -38,6 +38,7 @@ wwwroot\AdminTheme\assets\css\bootstrap-theme.css.map
 wwwroot\AdminTheme\assets\css\bootstrap-theme.min.css
 wwwroot\AdminTheme\assets\css\helper.css
 wwwroot\AdminTheme\assets\css\material-design-iconic-font.min.css
+wwwroot\AdminTheme\assets\css\notifications.css
 wwwroot\AdminTheme\assets\css\persian-datepicker.min.css
 wwwroot\AdminTheme\assets\css\style.css
 wwwroot\AdminTheme\assets\css\style-responsive.css
@@ -192,6 +193,7 @@ wwwroot\AdminTheme\assets\jquery-sparkline\charts-sparkline.js
 wwwroot\AdminTheme\assets\jquery-sparkline\jquery.sparkline.min.js
 wwwroot\AdminTheme\assets\js\bootstrap.js
 wwwroot\AdminTheme\assets\js\bootstrap.min.js
+wwwroot\AdminTheme\assets\js\custom.js
 wwwroot\AdminTheme\assets\js\jquery.app.js
 wwwroot\AdminTheme\assets\js\jquery.chat.js
 wwwroot\AdminTheme\assets\js\jquery.dashboard.js
@@ -201,6 +203,7 @@ wwwroot\AdminTheme\assets\js\jquery.scrollTo.min.js
 wwwroot\AdminTheme\assets\js\jquery.todo.js
 wwwroot\AdminTheme\assets\js\jquery-ui-1.10.1.custom.min.js
 wwwroot\AdminTheme\assets\js\modernizr.min.js
+wwwroot\AdminTheme\assets\js\notifications.js
 wwwroot\AdminTheme\assets\js\npm.js
 wwwroot\AdminTheme\assets\js\persian-date.min.js
 wwwroot\AdminTheme\assets\js\persian-datepicker.min.js

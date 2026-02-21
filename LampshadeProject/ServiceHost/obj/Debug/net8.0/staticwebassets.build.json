@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VMc2scanWwv79+cYh3MyVzszRpQuFKeRZ4Vz6f8xlJI=",
+  "Hash": "byGLeysdXsutviP6YM+SxJLATWr3bj7Dkamn9mt853o=",
   "Source": "ServiceHost",
   "BasePath": "_content/ServiceHost",
   "Mode": "Default",
@@ -897,6 +897,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\AdminTheme\\assets\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Identity": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\notifications.css",
+      "SourceId": "ServiceHost",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\wwwroot\\",
+      "BasePath": "_content/ServiceHost",
+      "RelativePath": "AdminTheme/assets/css/notifications#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tf5fy7gl9c",
+      "Integrity": "SefxozNF4KlBRzqM32XEhQkDwnC7XPOagxDNmOrtffo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\AdminTheme\\assets\\css\\notifications.css"
     },
     {
       "Identity": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\persian-datepicker.min.css",
@@ -4133,6 +4154,27 @@
       "OriginalItemSpec": "wwwroot\\AdminTheme\\assets\\js\\bootstrap.min.js"
     },
     {
+      "Identity": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\custom.js",
+      "SourceId": "ServiceHost",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\wwwroot\\",
+      "BasePath": "_content/ServiceHost",
+      "RelativePath": "AdminTheme/assets/js/custom#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6n60fu47kq",
+      "Integrity": "XjdEHEqR1C6Vbs7E7KIFemHZXtcVuxXMK8kXfzvCloU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\AdminTheme\\assets\\js\\custom.js"
+    },
+    {
       "Identity": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\jquery.app.js",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
@@ -4320,6 +4362,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\AdminTheme\\assets\\js\\modernizr.min.js"
+    },
+    {
+      "Identity": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\notifications.js",
+      "SourceId": "ServiceHost",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\wwwroot\\",
+      "BasePath": "_content/ServiceHost",
+      "RelativePath": "AdminTheme/assets/js/notifications#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "08bimh4wzc",
+      "Integrity": "sPzyVbZm9K3VuForrZxoiwmFROHyNPmhDrjh+X+WWLI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\AdminTheme\\assets\\js\\notifications.js"
     },
     {
       "Identity": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\npm.js",
@@ -11107,6 +11170,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-RCsLr0/xyztNEO76Fn2heRhxKjrXTj9JWCeP3BtCv00="
+        }
+      ]
+    },
+    {
+      "Route": "AdminTheme/assets/css/notifications.css",
+      "AssetFile": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\notifications.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4621"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SefxozNF4KlBRzqM32XEhQkDwnC7XPOagxDNmOrtffo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Nov 2020 09:29:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SefxozNF4KlBRzqM32XEhQkDwnC7XPOagxDNmOrtffo="
+        }
+      ]
+    },
+    {
+      "Route": "AdminTheme/assets/css/notifications.tf5fy7gl9c.css",
+      "AssetFile": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\notifications.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4621"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SefxozNF4KlBRzqM32XEhQkDwnC7XPOagxDNmOrtffo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Nov 2020 09:29:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tf5fy7gl9c"
+        },
+        {
+          "Name": "label",
+          "Value": "AdminTheme/assets/css/notifications.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SefxozNF4KlBRzqM32XEhQkDwnC7XPOagxDNmOrtffo="
         }
       ]
     },
@@ -23739,6 +23884,88 @@
       ]
     },
     {
+      "Route": "AdminTheme/assets/js/custom.6n60fu47kq.js",
+      "AssetFile": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\custom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "375"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XjdEHEqR1C6Vbs7E7KIFemHZXtcVuxXMK8kXfzvCloU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Feb 2026 18:59:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6n60fu47kq"
+        },
+        {
+          "Name": "label",
+          "Value": "AdminTheme/assets/js/custom.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XjdEHEqR1C6Vbs7E7KIFemHZXtcVuxXMK8kXfzvCloU="
+        }
+      ]
+    },
+    {
+      "Route": "AdminTheme/assets/js/custom.js",
+      "AssetFile": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\custom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "375"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XjdEHEqR1C6Vbs7E7KIFemHZXtcVuxXMK8kXfzvCloU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Feb 2026 18:59:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XjdEHEqR1C6Vbs7E7KIFemHZXtcVuxXMK8kXfzvCloU="
+        }
+      ]
+    },
+    {
       "Route": "AdminTheme/assets/js/jquery.app.dy6x3deufu.js",
       "AssetFile": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\jquery.app.js",
       "Selectors": [],
@@ -24473,6 +24700,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-Gs2l3D+JgtNMMI2ng9RQqf9Mp57morJ0FLtqdADr/RU="
+        }
+      ]
+    },
+    {
+      "Route": "AdminTheme/assets/js/notifications.08bimh4wzc.js",
+      "AssetFile": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\notifications.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4789"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sPzyVbZm9K3VuForrZxoiwmFROHyNPmhDrjh+X+WWLI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Oct 2020 14:02:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "08bimh4wzc"
+        },
+        {
+          "Name": "label",
+          "Value": "AdminTheme/assets/js/notifications.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sPzyVbZm9K3VuForrZxoiwmFROHyNPmhDrjh+X+WWLI="
+        }
+      ]
+    },
+    {
+      "Route": "AdminTheme/assets/js/notifications.js",
+      "AssetFile": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\notifications.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4789"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sPzyVbZm9K3VuForrZxoiwmFROHyNPmhDrjh+X+WWLI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Oct 2020 14:02:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sPzyVbZm9K3VuForrZxoiwmFROHyNPmhDrjh+X+WWLI="
         }
       ]
     },

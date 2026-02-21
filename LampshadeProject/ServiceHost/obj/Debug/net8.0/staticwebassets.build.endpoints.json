@@ -3283,6 +3283,88 @@
       ]
     },
     {
+      "Route": "AdminTheme/assets/css/notifications.css",
+      "AssetFile": "AdminTheme/assets/css/notifications.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4621"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SefxozNF4KlBRzqM32XEhQkDwnC7XPOagxDNmOrtffo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Nov 2020 09:29:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SefxozNF4KlBRzqM32XEhQkDwnC7XPOagxDNmOrtffo="
+        }
+      ]
+    },
+    {
+      "Route": "AdminTheme/assets/css/notifications.tf5fy7gl9c.css",
+      "AssetFile": "AdminTheme/assets/css/notifications.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4621"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SefxozNF4KlBRzqM32XEhQkDwnC7XPOagxDNmOrtffo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Nov 2020 09:29:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tf5fy7gl9c"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SefxozNF4KlBRzqM32XEhQkDwnC7XPOagxDNmOrtffo="
+        },
+        {
+          "Name": "label",
+          "Value": "AdminTheme/assets/css/notifications.css"
+        }
+      ]
+    },
+    {
       "Route": "AdminTheme/assets/css/persian-datepicker.min.7ut2rmch5b.css",
       "AssetFile": "AdminTheme/assets/css/persian-datepicker.min.css",
       "Selectors": [],
@@ -15911,6 +15993,88 @@
       ]
     },
     {
+      "Route": "AdminTheme/assets/js/custom.6n60fu47kq.js",
+      "AssetFile": "AdminTheme/assets/js/custom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "375"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XjdEHEqR1C6Vbs7E7KIFemHZXtcVuxXMK8kXfzvCloU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Feb 2026 18:59:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6n60fu47kq"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XjdEHEqR1C6Vbs7E7KIFemHZXtcVuxXMK8kXfzvCloU="
+        },
+        {
+          "Name": "label",
+          "Value": "AdminTheme/assets/js/custom.js"
+        }
+      ]
+    },
+    {
+      "Route": "AdminTheme/assets/js/custom.js",
+      "AssetFile": "AdminTheme/assets/js/custom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "375"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XjdEHEqR1C6Vbs7E7KIFemHZXtcVuxXMK8kXfzvCloU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Feb 2026 18:59:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XjdEHEqR1C6Vbs7E7KIFemHZXtcVuxXMK8kXfzvCloU="
+        }
+      ]
+    },
+    {
       "Route": "AdminTheme/assets/js/jquery-ui-1.10.1.custom.min.6gd00jsjq5.js",
       "AssetFile": "AdminTheme/assets/js/jquery-ui-1.10.1.custom.min.js",
       "Selectors": [],
@@ -16645,6 +16809,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-Gs2l3D+JgtNMMI2ng9RQqf9Mp57morJ0FLtqdADr/RU="
+        }
+      ]
+    },
+    {
+      "Route": "AdminTheme/assets/js/notifications.08bimh4wzc.js",
+      "AssetFile": "AdminTheme/assets/js/notifications.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4789"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sPzyVbZm9K3VuForrZxoiwmFROHyNPmhDrjh+X+WWLI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Oct 2020 14:02:06 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "08bimh4wzc"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sPzyVbZm9K3VuForrZxoiwmFROHyNPmhDrjh+X+WWLI="
+        },
+        {
+          "Name": "label",
+          "Value": "AdminTheme/assets/js/notifications.js"
+        }
+      ]
+    },
+    {
+      "Route": "AdminTheme/assets/js/notifications.js",
+      "AssetFile": "AdminTheme/assets/js/notifications.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4789"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sPzyVbZm9K3VuForrZxoiwmFROHyNPmhDrjh+X+WWLI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 Oct 2020 14:02:06 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sPzyVbZm9K3VuForrZxoiwmFROHyNPmhDrjh+X+WWLI="
         }
       ]
     },

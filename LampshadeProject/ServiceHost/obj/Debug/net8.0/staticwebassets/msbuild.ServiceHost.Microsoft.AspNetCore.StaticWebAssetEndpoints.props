@@ -480,6 +480,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-RCsLr0/xyztNEO76Fn2heRhxKjrXTj9JWCeP3BtCv00="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"32649"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022RCsLr0/xyztNEO76Fn2heRhxKjrXTj9JWCeP3BtCv00=\u0022"},{"Name":"Last-Modified","Value":"Wed, 10 Dec 2014 23:45:06 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServiceHost/AdminTheme/assets/css/notifications.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AdminTheme\assets\css\notifications.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SefxozNF4KlBRzqM32XEhQkDwnC7XPOagxDNmOrtffo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4621"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022SefxozNF4KlBRzqM32XEhQkDwnC7XPOagxDNmOrtffo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Nov 2020 09:29:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServiceHost/AdminTheme/assets/css/notifications.tf5fy7gl9c.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AdminTheme\assets\css\notifications.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tf5fy7gl9c"},{"Name":"integrity","Value":"sha256-SefxozNF4KlBRzqM32XEhQkDwnC7XPOagxDNmOrtffo="},{"Name":"label","Value":"_content/ServiceHost/AdminTheme/assets/css/notifications.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4621"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022SefxozNF4KlBRzqM32XEhQkDwnC7XPOagxDNmOrtffo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Nov 2020 09:29:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ServiceHost/AdminTheme/assets/css/persian-datepicker.min.7ut2rmch5b.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AdminTheme\assets\css\persian-datepicker.min.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -2328,6 +2340,18 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rxz8odn45t"},{"Name":"integrity","Value":"sha256-70Ok1QL/tohlaFHXiMQoadR\u002BiEDQB7T0tm9iUwFxrNQ="},{"Name":"label","Value":"_content/ServiceHost/AdminTheme/assets/js/bootstrap.js"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"68890"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u002270Ok1QL/tohlaFHXiMQoadR\u002BiEDQB7T0tm9iUwFxrNQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 16 Jun 2015 15:13:22 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServiceHost/AdminTheme/assets/js/custom.6n60fu47kq.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AdminTheme\assets\js\custom.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6n60fu47kq"},{"Name":"integrity","Value":"sha256-XjdEHEqR1C6Vbs7E7KIFemHZXtcVuxXMK8kXfzvCloU="},{"Name":"label","Value":"_content/ServiceHost/AdminTheme/assets/js/custom.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"375"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022XjdEHEqR1C6Vbs7E7KIFemHZXtcVuxXMK8kXfzvCloU=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Feb 2026 18:59:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServiceHost/AdminTheme/assets/js/custom.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AdminTheme\assets\js\custom.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-XjdEHEqR1C6Vbs7E7KIFemHZXtcVuxXMK8kXfzvCloU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"375"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022XjdEHEqR1C6Vbs7E7KIFemHZXtcVuxXMK8kXfzvCloU=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Feb 2026 18:59:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ServiceHost/AdminTheme/assets/js/jquery-ui-1.10.1.custom.min.6gd00jsjq5.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AdminTheme\assets\js\jquery-ui-1.10.1.custom.min.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -2435,6 +2459,18 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Gs2l3D\u002BJgtNMMI2ng9RQqf9Mp57morJ0FLtqdADr/RU="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"15153"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022Gs2l3D\u002BJgtNMMI2ng9RQqf9Mp57morJ0FLtqdADr/RU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 21 Jun 2015 01:54:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServiceHost/AdminTheme/assets/js/notifications.08bimh4wzc.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AdminTheme\assets\js\notifications.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"08bimh4wzc"},{"Name":"integrity","Value":"sha256-sPzyVbZm9K3VuForrZxoiwmFROHyNPmhDrjh\u002BX\u002BWWLI="},{"Name":"label","Value":"_content/ServiceHost/AdminTheme/assets/js/notifications.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4789"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022sPzyVbZm9K3VuForrZxoiwmFROHyNPmhDrjh\u002BX\u002BWWLI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 07 Oct 2020 14:02:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServiceHost/AdminTheme/assets/js/notifications.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AdminTheme\assets\js\notifications.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-sPzyVbZm9K3VuForrZxoiwmFROHyNPmhDrjh\u002BX\u002BWWLI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4789"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022sPzyVbZm9K3VuForrZxoiwmFROHyNPmhDrjh\u002BX\u002BWWLI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 07 Oct 2020 14:02:06 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ServiceHost/AdminTheme/assets/js/npm.70c8sktaz9.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AdminTheme\assets\js\npm.js'))</AssetFile>

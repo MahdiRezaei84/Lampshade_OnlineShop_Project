@@ -37,7 +37,7 @@ namespace DiscountManagement.Application
             var operation = new OperationResult();
             var colleagueDiscount = _colleagueDiscountRepository.GetById(command.Id);
             if (colleagueDiscount == null)
-                return operation.Failed(ApplicationMessages.RecordNotFound);
+                return operation.Failed(ApplicationMessages.RecordNotFound, NotificationType.Warning);
             if (_colleagueDiscountRepository.Exists(x => x.ProductId == command.ProductId && x.DiscountRate == command.DiscountRate && x.Id != command.Id))
                 return operation.Failed(ApplicationMessages.DouplicatedRecord);
 
@@ -61,7 +61,7 @@ namespace DiscountManagement.Application
             var operation = new OperationResult();
             var collleagueDiscount = _colleagueDiscountRepository.GetById(id);
             if (collleagueDiscount == null)
-                return operation.Failed(ApplicationMessages.RecordNotFound);
+                return operation.Failed(ApplicationMessages.RecordNotFound, NotificationType.Warning);
 
             collleagueDiscount.Remove();
             _colleagueDiscountRepository.SaveChanges();
@@ -76,7 +76,7 @@ namespace DiscountManagement.Application
             var operation = new OperationResult();
             var collleagueDiscount = _colleagueDiscountRepository.GetById(id);
             if (collleagueDiscount == null)
-                return operation.Failed(ApplicationMessages.RecordNotFound);
+                return operation.Failed(ApplicationMessages.RecordNotFound, NotificationType.Warning);
 
             collleagueDiscount.Restore();
             _colleagueDiscountRepository.SaveChanges();

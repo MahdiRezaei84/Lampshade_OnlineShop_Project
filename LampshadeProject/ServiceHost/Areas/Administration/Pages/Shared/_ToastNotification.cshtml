@@ -1,0 +1,23 @@
+﻿@{
+    var message = TempData["Notification.Message"]?.ToString();
+    var type = TempData["Notification.Type"]?.ToString();
+
+    if(string.IsNullOrWhiteSpace(message) || string.IsNullOrWhiteSpace(type))
+    {
+        return;
+    }
+
+    var title = type switch
+    {
+        "Success" => "عملیات موفقیت آمیز",
+        "Error" => "پیغام خطا",
+        "Warning" => "پیغام هشدار",
+        "Info" => "اطلاع رسانی"
+    };   
+}
+
+<script>
+    $(document).ready(function(){
+        ShowMessage('@title', '@message', '@type.ToLower()')
+    });
+</script>
