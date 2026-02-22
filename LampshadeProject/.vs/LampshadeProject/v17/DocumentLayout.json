@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3EEE0443-905A-447A-8BD6-9BA0CECE55C6}|InventoryManagement.Domain\\InventoryManagement.Domain.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\inventorymanagement.domain\\inventoryagg\\iinventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EEE0443-905A-447A-8BD6-9BA0CECE55C6}|InventoryManagement.Domain\\InventoryManagement.Domain.csproj|solutionrelative:inventorymanagement.domain\\inventoryagg\\iinventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{025DA4DB-2C7B-45C9-82F8-9A7500382E24}|InventoryManagement.Infrastructure.Configuration\\InventoryManagement.Infrastructure.Configuration.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\inventorymanagement.infrastructure.configuration\\inventorymanagementbootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025DA4DB-2C7B-45C9-82F8-9A7500382E24}|InventoryManagement.Infrastructure.Configuration\\InventoryManagement.Infrastructure.Configuration.csproj|solutionrelative:inventorymanagement.infrastructure.configuration\\inventorymanagementbootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E1A464B-07A6-48C1-987C-E1A73944C188}|InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\inventorymanagement.application.contract\\iinventoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E1A464B-07A6-48C1-987C-E1A73944C188}|InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj|solutionrelative:inventorymanagement.application.contract\\iinventoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6AB1A3B3-C754-4BF4-BBEE-349B7810E3EA}|InventoryManagement.Application\\InventoryManagement.Application.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\inventorymanagement.application\\inventoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AB1A3B3-C754-4BF4-BBEE-349B7810E3EA}|InventoryManagement.Application\\InventoryManagement.Application.csproj|solutionrelative:inventorymanagement.application\\inventoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E1A464B-07A6-48C1-987C-E1A73944C188}|InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\inventorymanagement.application.contract\\createinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E1A464B-07A6-48C1-987C-E1A73944C188}|InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj|solutionrelative:inventorymanagement.application.contract\\createinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E1A464B-07A6-48C1-987C-E1A73944C188}|InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\inventorymanagement.application.contract\\increaseinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E1A464B-07A6-48C1-987C-E1A73944C188}|InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj|solutionrelative:inventorymanagement.application.contract\\increaseinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EEE0443-905A-447A-8BD6-9BA0CECE55C6}|InventoryManagement.Domain\\InventoryManagement.Domain.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\inventorymanagement.domain\\inventoryagg\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EEE0443-905A-447A-8BD6-9BA0CECE55C6}|InventoryManagement.Domain\\InventoryManagement.Domain.csproj|solutionrelative:inventorymanagement.domain\\inventoryagg\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E1A464B-07A6-48C1-987C-E1A73944C188}|InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj|e:\\aspnetcoreprojects\\lampshade_onlineshop_project\\code\\lampshadeproject\\inventorymanagement.application.contract\\reduceinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1A464B-07A6-48C1-987C-E1A73944C188}|InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj|solutionrelative:inventorymanagement.application.contract\\reduceinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,66 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IInventoryRepository.cs",
-              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\InventoryManagement.Domain\\InventoryAgg\\IInventoryRepository.cs",
-              "RelativeDocumentMoniker": "InventoryManagement.Domain\\InventoryAgg\\IInventoryRepository.cs",
-              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\InventoryManagement.Domain\\InventoryAgg\\IInventoryRepository.cs",
-              "RelativeToolTip": "InventoryManagement.Domain\\InventoryAgg\\IInventoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Title": "InventoryManagementBootstrapper.cs",
+              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\InventoryManagement.Infrastructure.Configuration\\InventoryManagementBootstrapper.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Infrastructure.Configuration\\InventoryManagementBootstrapper.cs",
+              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\InventoryManagement.Infrastructure.Configuration\\InventoryManagementBootstrapper.cs",
+              "RelativeToolTip": "InventoryManagement.Infrastructure.Configuration\\InventoryManagementBootstrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T16:28:16.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IInventoryApplication.cs",
-              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\InventoryManagement.Application.Contract\\IInventoryApplication.cs",
-              "RelativeDocumentMoniker": "InventoryManagement.Application.Contract\\IInventoryApplication.cs",
-              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\InventoryManagement.Application.Contract\\IInventoryApplication.cs",
-              "RelativeToolTip": "InventoryManagement.Application.Contract\\IInventoryApplication.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T16:20:43.243Z",
+              "WhenOpened": "2026-02-22T10:15:44.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CreateInventory.cs",
-              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\InventoryManagement.Application.Contract\\CreateInventory.cs",
-              "RelativeDocumentMoniker": "InventoryManagement.Application.Contract\\CreateInventory.cs",
-              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\InventoryManagement.Application.Contract\\CreateInventory.cs",
-              "RelativeToolTip": "InventoryManagement.Application.Contract\\CreateInventory.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "ReduceInventory.cs",
+              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\InventoryManagement.Application.Contract\\ReduceInventory.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Application.Contract\\ReduceInventory.cs",
+              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\InventoryManagement.Application.Contract\\ReduceInventory.cs",
+              "RelativeToolTip": "InventoryManagement.Application.Contract\\ReduceInventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T16:14:13.542Z",
+              "WhenOpened": "2026-02-22T10:08:44.744Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Inventory.cs",
-              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\InventoryManagement.Domain\\InventoryAgg\\Inventory.cs",
-              "RelativeDocumentMoniker": "InventoryManagement.Domain\\InventoryAgg\\Inventory.cs",
-              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\InventoryManagement.Domain\\InventoryAgg\\Inventory.cs",
-              "RelativeToolTip": "InventoryManagement.Domain\\InventoryAgg\\Inventory.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "InventoryApplication.cs",
+              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\InventoryManagement.Application\\InventoryApplication.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.Application\\InventoryApplication.cs",
+              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\InventoryManagement.Application\\InventoryApplication.cs",
+              "RelativeToolTip": "InventoryManagement.Application\\InventoryApplication.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowFgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T16:08:48.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IncreaseInventory.cs",
-              "DocumentMoniker": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\InventoryManagement.Application.Contract\\IncreaseInventory.cs",
-              "RelativeDocumentMoniker": "InventoryManagement.Application.Contract\\IncreaseInventory.cs",
-              "ToolTip": "E:\\AspNetCoreProjects\\Lampshade_OnlineShop_Project\\Code\\LampshadeProject\\InventoryManagement.Application.Contract\\IncreaseInventory.cs",
-              "RelativeToolTip": "InventoryManagement.Application.Contract\\IncreaseInventory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T16:07:12.766Z",
+              "WhenOpened": "2026-02-22T09:48:09.659Z",
               "EditorCaption": ""
             }
           ]

@@ -1,4 +1,5 @@
 using DiscountManagement.Configuration;
+using InventoryManagement.Infrastructure.Configuration;
 using ShopManagement.Infrastructure.Configuration;
 using System.Text.Encodings.Web;
 using System.Text.Unicode;
@@ -15,6 +16,7 @@ var connectionString = builder.Configuration.GetConnectionString("LampshadeDb");
 
 ShopManagementBootstrapper.Configure(builder.Services, connectionString);
 DiscountManagementBootstrapper.Configure(builder.Services, connectionString);
+InventoryManagementBootstrapper.Configure(builder.Services, connectionString);
 #endregion
 
 var app = builder.Build();

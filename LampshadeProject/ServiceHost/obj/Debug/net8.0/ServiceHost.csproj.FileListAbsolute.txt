@@ -302,3 +302,13 @@ E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\Service
 E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ServiceHost\bin\Debug\net8.0\DiscountManagement.Application.Contracts.pdb
 E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ServiceHost\bin\Debug\net8.0\DiscountManagement.Domain.pdb
 E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ServiceHost\bin\Debug\net8.0\DiscountManagement.Infrastructure.EFCore.pdb
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ServiceHost\bin\Debug\net8.0\InventoryManagement.Application.Contract.dll
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ServiceHost\bin\Debug\net8.0\InventoryManagement.Domain.dll
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ServiceHost\bin\Debug\net8.0\InventoryManagement.Infrastructure.Configuration.dll
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ServiceHost\bin\Debug\net8.0\InventoryManagement.Infrastructure.EFCore.dll
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ServiceHost\bin\Debug\net8.0\InventoryManagement.Infrastructure.Configuration.pdb
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ServiceHost\bin\Debug\net8.0\InventoryManagement.Application.Contract.pdb
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ServiceHost\bin\Debug\net8.0\InventoryManagement.Domain.pdb
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ServiceHost\bin\Debug\net8.0\InventoryManagement.Infrastructure.EFCore.pdb
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ServiceHost\bin\Debug\net8.0\InventoryManagement.Application.dll
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\ServiceHost\bin\Debug\net8.0\InventoryManagement.Application.pdb
