@@ -58,7 +58,7 @@ namespace InventoryManagement.Application
         public OperationResult Increase(IncreaseInventory command)
         {
             var operation = new OperationResult();
-            var inventory = _inventoryRepository.GetById(command.InventoryId);
+            var inventory = _inventoryRepository.GetByIdWithOperations(command.InventoryId);
             if (inventory == null)
                 return operation.Failed(ApplicationMessages.RecordNotFound, NotificationType.Warning);
 
@@ -74,7 +74,7 @@ namespace InventoryManagement.Application
         public OperationResult Reduce(ReduceInventory command)
         {
             var operation = new OperationResult();
-            var inventory = _inventoryRepository.GetById(command.InventoryId);
+            var inventory = _inventoryRepository.GetByIdWithOperations(command.InventoryId);
             if (inventory == null)
                 return operation.Failed(ApplicationMessages.RecordNotFound, NotificationType.Warning);
             
@@ -106,6 +106,13 @@ namespace InventoryManagement.Application
         public List<InventoryViewModel> Search(InventorySearchModel searchModel)
         {
             return _inventoryRepository.Search(searchModel);
+        }
+        #endregion
+
+        #region get inventory operations log
+        public List<InventoryOperationViewModel> GetOperationLog(long inventoryId)
+        {
+            return _inventoryRepository.GetOperationLog(inventoryId);
         }
         #endregion
     }

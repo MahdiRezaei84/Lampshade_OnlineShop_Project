@@ -14,3 +14,5 @@ E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\Invento
 E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\InventoryManagement.Application.Contract\obj\Debug\net8.0\refint\InventoryManagement.Application.Contract.dll
 E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\InventoryManagement.Application.Contract\obj\Debug\net8.0\InventoryManagement.Application.Contract.pdb
 E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\InventoryManagement.Application.Contract\obj\Debug\net8.0\ref\InventoryManagement.Application.Contract.dll
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\InventoryManagement.Application.Contract\bin\Debug\net8.0\ShopManagement.Application.Contracts.dll
+E:\AspNetCoreProjects\Lampshade_OnlineShop_Project\Code\LampshadeProject\InventoryManagement.Application.Contract\bin\Debug\net8.0\ShopManagement.Application.Contracts.pdb

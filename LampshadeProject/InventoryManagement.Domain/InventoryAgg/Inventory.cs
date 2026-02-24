@@ -9,6 +9,7 @@ namespace InventoryManagement.Domain.InventoryAgg
         public bool InStock { get; private set; }
         public List<InventoryOperation> Operations { get; private set; }
 
+        
         public Inventory(long productId, double unitPrice)
         {
             ProductId = productId;
@@ -24,6 +25,8 @@ namespace InventoryManagement.Domain.InventoryAgg
 
         public long CalculateCurrentCount()
         {
+            if (Operations == null || !Operations.Any())
+                return 0;
             var plus = Operations.Where(x => x.Operation).Sum(x => x.Count);
             var minus = Operations.Where(x => !x.Operation).Sum(x => x.Count);
             return plus - minus;

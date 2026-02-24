@@ -24,7 +24,7 @@ namespace ShopManagement.Application
                 return operation.Failed(ApplicationMessages.DouplicatedRecord);
 
             var slug = command.Slug.Slugify();
-            var product = new Product(command.Name, command.Code, command.UnitPrice, command.ShortDescription, 
+            var product = new Product(command.Name, command.Code, command.ShortDescription, 
                 command.Description, command.Picture, command.PictureAlt, command.PictureTitle, command.CategoryId,
                 slug, command.Keywords, command.MetaDescription);
             _productRepository.Create(product);
@@ -48,7 +48,7 @@ namespace ShopManagement.Application
                 return operation.Failed(ApplicationMessages.DouplicatedRecord);
 
             var slug = command.Slug.Slugify();
-            product.Edit(command.Name, command.Code, command.UnitPrice, command.ShortDescription,
+            product.Edit(command.Name, command.Code, command.ShortDescription,
                 command.Description, command.Picture, command.PictureAlt, command.PictureTitle, command.CategoryId,
                 slug, command.Keywords, command.MetaDescription);
 
@@ -64,36 +64,6 @@ namespace ShopManagement.Application
             return _productRepository.GetDetails(id);
         }
 
-        #endregion
-
-        #region is in stock
-        public OperationResult IsStock(long id)
-        {
-            var operation = new OperationResult();
-            var product = _productRepository.GetById(id);
-
-            if (product == null)
-                return operation.Failed(ApplicationMessages.RecordNotFound);
-
-            product.InStock();
-            _productRepository.SaveChanges();
-            return operation.Succedded();
-        }
-        #endregion
-
-        #region not in stock
-        public OperationResult NotInStock(long id)
-        {
-            var operation = new OperationResult();
-            var product = _productRepository.GetById(id);
-
-            if (product == null)
-                return operation.Failed(ApplicationMessages.RecordNotFound);
-
-            product.NotInStock();
-            _productRepository.SaveChanges();
-            return operation.Succedded();
-        }
         #endregion
 
         #region search
